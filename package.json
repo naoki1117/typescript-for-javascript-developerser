@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/naoki1117/typescript-for-javascript-developerser/issues"
   },
-  "homepage": "https://github.com/naoki1117/typescript-for-javascript-developerser#readme"
+  "homepage": "https://github.com/naoki1117/typescript-for-javascript-developerser#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
